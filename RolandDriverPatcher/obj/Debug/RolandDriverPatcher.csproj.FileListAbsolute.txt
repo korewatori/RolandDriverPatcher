@@ -1,0 +1,9 @@
+c:\users\ieatapples\documents\visual studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\Debug\RolandDriverPatcher.exe.config
+c:\users\ieatapples\documents\visual studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\Debug\RolandDriverPatcher.exe
+c:\users\ieatapples\documents\visual studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\Debug\RolandDriverPatcher.pdb
+c:\users\ieatapples\documents\visual studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\obj\Debug\RolandDriverPatcher.csprojResolveAssemblyReference.cache
+c:\users\ieatapples\documents\visual studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\obj\Debug\RolandDriverPatcher.MainForm.resources
+c:\users\ieatapples\documents\visual studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\obj\Debug\RolandDriverPatcher.Properties.Resources.resources
+c:\users\ieatapples\documents\visual studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\obj\Debug\RolandDriverPatcher.csproj.GenerateResource.Cache
+c:\users\ieatapples\documents\visual studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\obj\Debug\RolandDriverPatcher.exe
+c:\users\ieatapples\documents\visual studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\obj\Debug\RolandDriverPatcher.pdb

@@ -1,0 +1,16 @@
+C:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\x64\Release\RolandDriverPatcher.exe.config
+C:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\x64\Release\Screenshots\Screen1.png
+C:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\x64\Release\Screenshots\Screen2.png
+C:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\x64\Release\Screenshots\Screen3.png
+C:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\x64\Release\Screenshots\Screen4.png
+C:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\x64\Release\Screenshots\Screen5.png
+C:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\x64\Release\Screenshots\Screen6.png
+C:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\x64\Release\RolandDriverPatcher.exe
+C:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\x64\Release\RolandDriverPatcher.pdb
+C:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\obj\x64\Release\RolandDriverPatcher.Inst.resources
+C:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\obj\x64\Release\RolandDriverPatcher.MainForm.resources
+C:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\obj\x64\Release\RolandDriverPatcher.Properties.Resources.resources
+C:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\obj\x64\Release\RolandDriverPatcher.csproj.GenerateResource.Cache
+C:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\obj\x64\Release\RolandDriverPatcher.exe
+C:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\obj\x64\Release\RolandDriverPatcher.pdb
+C:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\obj\x64\Release\RolandDriverPatcher.csprojResolveAssemblyReference.cache

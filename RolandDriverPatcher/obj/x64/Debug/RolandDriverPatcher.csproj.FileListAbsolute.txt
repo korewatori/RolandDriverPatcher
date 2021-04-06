@@ -1,0 +1,15 @@
+c:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\x64\Debug\RolandDriverPatcher.exe.config
+c:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\x64\Debug\RolandDriverPatcher.exe
+c:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\x64\Debug\RolandDriverPatcher.pdb
+c:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\obj\x64\Debug\RolandDriverPatcher.MainForm.resources
+c:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\obj\x64\Debug\RolandDriverPatcher.Properties.Resources.resources
+c:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\obj\x64\Debug\RolandDriverPatcher.csproj.GenerateResource.Cache
+c:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\obj\x64\Debug\RolandDriverPatcher.exe
+c:\Users\iEatApples\Documents\Visual Studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\obj\x64\Debug\RolandDriverPatcher.pdb
+C:\Users\iEatApples\documents\visual studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\obj\x64\Debug\RolandDriverPatcher.Inst.resources
+C:\Users\iEatApples\documents\visual studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\x64\Debug\Screenshots\Screen1.png
+C:\Users\iEatApples\documents\visual studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\x64\Debug\Screenshots\Screen2.png
+C:\Users\iEatApples\documents\visual studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\x64\Debug\Screenshots\Screen3.png
+C:\Users\iEatApples\documents\visual studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\x64\Debug\Screenshots\Screen4.png
+C:\Users\iEatApples\documents\visual studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\x64\Debug\Screenshots\Screen5.png
+C:\Users\iEatApples\documents\visual studio 2015\Projects\RolandDriverPatcher\RolandDriverPatcher\bin\x64\Debug\Screenshots\Screen6.png
