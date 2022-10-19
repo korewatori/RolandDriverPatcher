@@ -1,7 +1,7 @@
 # RolandDriverPatcher
- Herbert Schmitt's Roland Driver Patcher source code, as it was never uploaded to Github.
+The Roland Driver Patcher source code, as it was never uploaded to Github.
 
-This is a mirror repository of [Herbert Schmitt's](https://www.youtube.com/channel/UCOAYvDwHYX7iIXdZBp_sW1Q) Roland Driver Patcher tool. It was only uploaded to MEGA, and never hosted as a Github repository.
+This is a mirror repository of the source code of a Roland driver patcher tool for Windows 10. It was only uploaded to MEGA, and never hosted as a Github repository.
 The original can be found [here](https://mega.nz/#!VU11majS!tJxwauVbfj8Cd2uCFW-S8hzC1sCvqYzjz85sCTLQ44M), with a tutorial video [here](https://www.youtube.com/watch?v=-2aSb4q2Kvw) and Windows build [here](https://mega.nz/file/YNMBGIrT#hPDxGRQ6-VoSQtxURe4fEwr5b5jCKoELjvqsFBrko0M).
 
 ## Description - What is this?
